@@ -1,0 +1,14 @@
+{
+    "name": "scratch-sb3-to-json",
+    "version": "1.0.0",
+    "description": "Converts an SB3 file to JSON",
+    "main": "index.js",
+    "dependencies": {
+      "unzipper": "^0.1.1"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "sb3-to-json",
+    "license": "ISC"
+  }  
